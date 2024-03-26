@@ -1,6 +1,6 @@
 {
-  "name": "tailwind22",
-  "version": "0.0.0",
+  "name": "finance",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
